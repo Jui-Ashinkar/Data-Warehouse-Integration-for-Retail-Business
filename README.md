@@ -61,3 +61,10 @@ The categories of products sold: Audio TV and Video Computers Cameras and camcor
 
 **Master Job**
 ![MasterJob](https://user-images.githubusercontent.com/56845665/94502879-20813d00-01d3-11eb-9668-d930906cd9be.PNG)
+
+**PowerBI Visualizations**
+
+<img width="468" alt="1" src="https://user-images.githubusercontent.com/56845665/94502951-4eff1800-01d3-11eb-8998-367ecd9d1417.png">
+<img width="468" alt="2" src="https://user-images.githubusercontent.com/56845665/94502952-50304500-01d3-11eb-9da8-aa5ed8688cf5.png">
+<img width="468" alt="3" src="https://user-images.githubusercontent.com/56845665/94502957-51fa0880-01d3-11eb-995a-173e69dcfd27.png">
+<img width="468" alt="4" src="https://user-images.githubusercontent.com/56845665/94502966-558d8f80-01d3-11eb-95a8-abe60fcd5a4e.png">
