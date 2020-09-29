@@ -1,6 +1,6 @@
 # Data-Warehouse-Integration-for-Retail-Business
 
-**Objective**
+***Objective***
 
 
 • Developed Multi-Dimensional data model (STAR Schema) and enhanced it to meet growing requirements
