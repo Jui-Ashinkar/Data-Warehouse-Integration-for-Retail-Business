@@ -58,3 +58,5 @@ The categories of products sold: Audio TV and Video Computers Cameras and camcor
 • Reject Reasons help you understand the bad data in detail
 
 • Handled null values using Relation.ISNULL function and applied code 99 if nulls are found
+
+
