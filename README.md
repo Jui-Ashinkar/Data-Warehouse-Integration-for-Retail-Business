@@ -68,3 +68,13 @@ The categories of products sold: Audio TV and Video Computers Cameras and camcor
 <img width="468" alt="2" src="https://user-images.githubusercontent.com/56845665/94502952-50304500-01d3-11eb-9da8-aa5ed8688cf5.png">
 <img width="468" alt="3" src="https://user-images.githubusercontent.com/56845665/94502957-51fa0880-01d3-11eb-995a-173e69dcfd27.png">
 <img width="468" alt="4" src="https://user-images.githubusercontent.com/56845665/94502966-558d8f80-01d3-11eb-95a8-abe60fcd5a4e.png">
+
+
+**Tableau Visualizations**
+<img width="468" alt="5" src="https://user-images.githubusercontent.com/56845665/94503018-79e96c00-01d3-11eb-9f10-300c0a03b2d7.png">
+<img width="468" alt="6" src="https://user-images.githubusercontent.com/56845665/94503020-7a820280-01d3-11eb-9ee0-365eb562aaeb.png">
+<img width="468" alt="7" src="https://user-images.githubusercontent.com/56845665/94503022-7bb32f80-01d3-11eb-9981-32b5c2726475.png">
+<img width="468" alt="8" src="https://user-images.githubusercontent.com/56845665/94503025-7ce45c80-01d3-11eb-987d-0c8019e52c04.png">
+<img width="468" alt="9" src="https://user-images.githubusercontent.com/56845665/94503028-7eae2000-01d3-11eb-94ef-6340bdc42adc.png">
+<img width="468" alt="10" src="https://user-images.githubusercontent.com/56845665/94503032-81107a00-01d3-11eb-89a0-c3889dc879ef.png">
+<img width="468" alt="11" src="https://user-images.githubusercontent.com/56845665/94503038-82da3d80-01d3-11eb-94f7-6e37fa247ecc.png">
